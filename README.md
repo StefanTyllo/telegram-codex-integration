@@ -2,7 +2,7 @@
 
 What if your next app update started as a Telegram message sent while waiting for coffee?
 
-This repo exists because I watched a Vibe Coding lecture where Codex was integrated with Slack, and it immediately triggered the kind of thought that usually leads to side projects and questionable bedtime decisions:
+This repo exists because I watched a Vibe Coding lecture at KubeCon 2026 in Amsterdam where Codex was integrated with Slack, and it immediately triggered the kind of thought that usually leads to side projects and questionable bedtime decisions:
 
 "That is brilliant. I should absolutely build my own version."
 
@@ -14,7 +14,7 @@ This project is my attempt to make app development feel a little less chained to
 
 ## The Origin Story
 
-I saw Codex working inside Slack in a lecture and had one of those dangerous developer reactions:
+At KubeCon 2026 in Amsterdam, I saw Codex working inside Slack during that lecture and had one of those dangerous developer reactions:
 
 "This is either a very good idea or a very entertaining mistake."
 
@@ -70,7 +70,7 @@ Just a practical, funny, slightly futuristic way to stay in motion when the good
 
 ## In One Sentence
 
-This project started with a Vibe Coding lecture, a Slack demo, and a very predictable developer response:
+This project started with a Vibe Coding lecture at KubeCon 2026 in Amsterdam, a Slack demo, and a very predictable developer response:
 
 "Cool. Now I need to see if I can make it work in Telegram."
 
